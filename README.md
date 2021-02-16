@@ -35,6 +35,8 @@ NWoC (NJACK Winter of Code) is a program by NJACK (The Official Computer Science
 About
 GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity.
 
+![code](https://user-images.githubusercontent.com/74592979/108056225-04454600-7077-11eb-8d9a-7fa47f71f586.gif)
+
 **Thank You for reading about me**
 
 <!--
