@@ -1,221 +1,24 @@
-### Hello World, I'm Aryan :white_heart:
-<img alt="GIF" src="https://i.pinimg.com/originals/7e/5c/07/7e5c0701fba480e5c59ccf400ea18e55.gif" width = 200/>
-
------
-#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
-
-### My skills :man_technologist:
-- **Competitive Coding**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://img.favpng.com/8/18/6/c-programming-language-logo-computer-programming-png-favpng-mpuXd11Ye3fT7N8FTMjb7FHQy.jpg"> 
-</td>
-</tr>
-</tbody>
-</table>
-
-- **Web Development**
- <br>
-- FrontEnd Development
- <br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif?compress=1&resize=400x300"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://i.pinimg.com/originals/b5/a6/27/b5a627fc267dc2e1bc7c7b3e8b181cfc.gif"> 
-</td>
-
-</td>
-
-</tr>
+# 💫 About Me:
+🧑‍💼 Founder of The DigitalFlix (AI Digital Marketing Course, Company & Institute in Bhopal) contributing to tech, automation, and product innovation.<br><br>💻 Frontend Developer passionate about building clean, fast, and intuitive web apps with modern UI/UX principles.<br><br>🚀 Skilled in React, JavaScript, TailwindCSS, Vite, Firebase, and exploring cutting-edge AI integrations.<br><br>🤖 Enthusiast of AI-powered development, automation tools, and building smart digital solutions.<br><br>📚 Constantly leveling up — learning full-stack development with Node.js, Express, and MongoDB while contributing to open-source
 
 
-<td align="center" width="33%">
-<img height=100px src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://thumbs.gfycat.com/PinkPiercingBull-size_restricted.gif"> 
-</td>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.bhardwaj@thedigitalflix.com) 
 
-<td align="center" width="33%">
-<img height=100px src="https://raw.githubusercontent.com/vaskevich/serverless-next.js/HEAD/logo.gif"> 
-</td>
-<tr>
- 
- </tr>
-</tbody>
-</table>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=Ionic&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=flat&logo=meteor&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=flat&logo=remix&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=Puppeteer&logoSize=auto&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=weebo-ary&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=weebo-ary&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=weebo-ary&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br><br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=weebo-ary&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-- **Web Development**
- <br>
-- Backend Development
- <br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://cdn.dribbble.com/users/776867/screenshots/6179644/mongogooo.gif"> 
-</td>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=weebo-ary&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<td align="center" width="33%">
-<img height=60px src="https://onepatch.com/wp-content/uploads/2020/03/NODEJS_CIRCLE.gif"> 
-</td>
+---
+[![](https://visitcount.itsvg.in/api?id=weebo-ary&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<td align="center" width="33%">
-<img height=100px src="https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png"> 
-</td>
-
-</td>
-
-</tr>
-
-
-<td align="center" width="33%">
-<img height=100px src="https://onepatch.com/wp-content/uploads/2020/03/PHP_CIRCLES_EW.gif"> 
-<tr>
- 
- </tr>
-</tbody>
-</table>
-
-<br><br>
-
-- **Web Development FrameWorks & API's**
- <br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://miro.medium.com/max/6668/1*XP-mZOrIqX7OsFInN2ngRQ.png"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.drupal.org/files/project-images/bootstrap-stack.png"> 
-</td>
-
-</td>
-
-</tr>
-
-
-<td align="center" width="33%">
-<img height=100px src="http://ww1.prweb.com/prfiles/2017/04/12/15013279/200x200_360%20logo.png"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"> 
-</td>
-<tr>
- 
- </tr>
-</tbody>
-</table>
-
-<br><br>
-
-- **Android Development**
-  - React Native 
-  - Expo
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://lh3.googleusercontent.com/proxy/TOEKLnTjEvGW9Yy8wKyH3rh7DCoIUSCjBZXLc2rAQKSixOwJVk-rZx2w7P1TksgVpXryv_OM_Gh7E3GHY7dtUFeJtJFu"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://docs.expo.io/static/images/og.png"> 
-</td>
-</tr>
-</tbody>
-</table>
-
-<br><br>
-
-- **UI/UX Development**
-  - Figma
-  - Adobe XD
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png"> 
-</td>
-</tr>
-</tbody>
-</table>
-
-<br><br>
-
-### I'm currently learning :open_book:
-- **Competitive Coding**
-    - Dynamic Programming
-    - Data Structures 
-    - Core Java
-    
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png"> 
-</td>
-<td align="center" width="50%">
-<img height=60px src="https://user-images.githubusercontent.com/1560278/27637937-cb4b9b24-5c11-11e7-949b-15c1e4cdb53c.gif"> 
-</td>
-</tr>
-</tbody>
-</table>
-
-<br> <br>
- <a href="https://twitter.com/AryanBh10538903?s=09">
-  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aryan-bhardwaj-7b0486176/">
-  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/weebo-ary">
-  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://dribbble.com/Desgen">
-  <img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>
-<br><br>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weebo-ary&layout=compact&theme=radical" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=weebo-ary&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
-</p>
-
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/weebo-ary/count.svg)
-
-⭐️ From [weebo-ary](https://github.com/weebo-ary)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
